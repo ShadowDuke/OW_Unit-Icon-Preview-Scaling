@@ -15,7 +15,7 @@ If you want bigger/smaller cities/units, let me know. Changing the default scali
 2. Set up a new game and go to Advanced Setup to find the mod at the bottom and enable it.
 3. Start a new game
 
-## Preview
+## Preview (vanilla - modded)
 
 ![image](https://abload.de/img/vanillau7jbu.jpg) ![image](https://abload.de/img/moddedibjll.jpg)
 
