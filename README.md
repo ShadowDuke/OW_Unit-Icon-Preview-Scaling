@@ -11,7 +11,7 @@ If you want bigger/smaller cities/units, let me know. Changing the default scali
 ## Installation and use
 
 1. [Download](https://github.com/ShadowDuke/OW_City-Unit-Scaling/archive/master.zip) the files and put the **"Mods"** directory in \Users\\###\Documents\My Games\OldWorld\ or \Users\\###\Documents\My Games\OldWorld\Test\ (if you use the test branch).
-- Help: Windows Explorer; click on Documents; navigate to \My Games\Old World\
+   - Help: Windows Explorer; click on Documents; navigate to \My Games\Old World\
 2. Set up a new game and go to Advanced Setup to find the mod at the bottom and enable it.
 3. Start a new game
 
