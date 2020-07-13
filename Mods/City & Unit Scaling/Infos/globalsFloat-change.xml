@@ -56,7 +56,7 @@
   </Entry>
   <Entry>
 	<zType>GLOBAL_CITY_BUILDING_SCALE</zType>
-	<fValue>1.4</fValue>
+	<fValue>1</fValue>
   </Entry>
   <Entry>
 	<zType>GLOBAL_IMPROVEMENT_SCALE</zType>
