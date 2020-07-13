@@ -1,11 +1,11 @@
 # City & Unit Scaling
-Scaling of Cities & Units
+Scaling of Units
 
 ## Notes
 
-I saw some people are not happy with how big the units are displayed on the map and that cities are now smaller (they want to see their beautiful cities ^^) compared to earlier releases.
+I saw some people are not happy with how big the units are displayed on the map.
 
-If you want bigger/smaller cities/units, let me know. Changing the default scaling for resources and improvements sometimes changes the 3d sprite into a weird looking 2d sprite, which looks ugly. 
+If you want maller units, let me know. Changing the default scaling for resources, cities and improvements sometimes changes the 3d sprite into a weird looking 2d sprite, which looks ugly. 
 
 
 ## Installation and use
