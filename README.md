@@ -1,4 +1,4 @@
-# City & Unit Scaling
+# Unit Scaling
 Scaling of Units
 
 ## Notes
