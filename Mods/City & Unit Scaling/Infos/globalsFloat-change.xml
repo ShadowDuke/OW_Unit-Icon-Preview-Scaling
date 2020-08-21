@@ -24,15 +24,27 @@
   </Entry>
   <Entry>
     <zType>UNIT_ANIMATION_NORMAL_MOVE_DURATION</zType>
-    <fValue>0.6</fValue>
+    <fValue>.6</fValue>
+  </Entry>
+  <Entry>
+	<zType>UNIT_ANIMATION_NORMAL_MOVE_SPEED</zType>
+	<fValue>1.</fValue>
+  </Entry>
+  <Entry>
+    <zType>UNIT_ANIMATION_INTERMEDIATE_MOVE_DURATION</zType>
+    <fValue>.4</fValue>
+  </Entry>
+  <Entry>
+    <zType>UNIT_ANIMATION_INTERMEDIATE_MOVE_SPEED</zType>
+    <fValue>1.5</fValue>
   </Entry>
   <Entry>
     <zType>UNIT_ANIMATION_FAST_MOVE_DURATION</zType>
-    <fValue>0.15</fValue>
+    <fValue>.3</fValue>
   </Entry>
   <Entry>
     <zType>UNIT_ANIMATION_FAST_MOVE_SPEED</zType>
-    <fValue>5</fValue>
+    <fValue>2</fValue>
   </Entry>
   <Entry>
     <zType>UNIT_ANIMATION_ROTATION_SPEED_DEGREES</zType>
@@ -40,15 +52,15 @@
   </Entry>
   <Entry>
     <zType>UNIT_ANIMATION_MOVE_SPEED_RANDOMNESS</zType>
-    <fValue>0.4</fValue>
+    <fValue>.4</fValue>
   </Entry>
   <Entry>
     <zType>SINGLE_UNIT_SCALE</zType>
-    <fValue>1.5</fValue>
+    <fValue>.8</fValue>
   </Entry>
   <Entry>
     <zType>GLOBAL_UNIT_SCALE</zType>
-    <fValue>0.8</fValue>
+    <fValue>.8</fValue>
   </Entry>
   <Entry>
     <zType>GLOBAL_RESOURCE_SCALE</zType>
