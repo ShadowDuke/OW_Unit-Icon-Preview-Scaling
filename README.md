@@ -1,11 +1,13 @@
-# Unit Scaling
-Scaling of Units (70%)
 
-## Notes
+- Scales units down to 70% of their base scale value
+   
+- Icons (like food, wood, etc.) are 25% bigger
+   
+- Bigger font zize e.g. for building preview overlay (for bigger screens very helpful)
+   - As i mentioned in "R-E-D for OldWorld" scaling for resources is glitching out and therefore not recommneded unless you want weird glitchy looking resource sprites.
+<br><br>
+- Compatible with all my mods
 
-I saw some people are not happy with how big the units are displayed on the map.
-
-If you want maller units, let me know. Changing the default scaling for resources, cities and improvements sometimes changes the 3d sprite into a weird looking 2d sprite, which looks ugly. 
 
 
 ## Installation and use
@@ -14,8 +16,3 @@ If you want maller units, let me know. Changing the default scaling for resource
    - Help: Windows Explorer; click on Documents; navigate to \My Games\Old World\
 2. Go to "Mods" in the main menu and enable "City & Unit Scaling", click "Save" then click "Play with Mods" or set up a new game and go to Advanced Setup to find the mod at the bottom and enable it.
 3. Start a new game
-
-## Preview (vanilla - modded)
-
-![image](https://abload.de/img/vanillau7jbu.jpg) ![image](https://abload.de/img/moddedibjll.jpg)
-
