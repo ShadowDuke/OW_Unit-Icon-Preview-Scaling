@@ -1,9 +1,9 @@
 
 - Scales units down to 70% of their base scale value
    
-- Icons (like food, wood, etc.) are 25% bigger
+- Icons (like food, wood, etc.) are 30% bigger
    
-- Bigger font zize e.g. for building preview overlay (for bigger screens very helpful)
+- Bigger font zize e.g. for building preview overlay (for bigger screens very helpful) 25%
    - As i mentioned in "R-E-D for OldWorld" scaling for resources is glitching out and therefore not recommneded unless you want weird glitchy looking resource sprites.
 <br><br>
 - Compatible with all my mods
