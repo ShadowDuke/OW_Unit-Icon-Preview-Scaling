@@ -1,5 +1,5 @@
 # Unit Scaling
-Scaling of Units
+Scaling of Units (70%)
 
 ## Notes
 
